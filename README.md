@@ -1,7 +1,7 @@
 # Hey, Siam here! 👋
 
 <p align="center">
-  <b>Peace be upon you | Assalamualaikum | السَّلامُ عَلَيْكُمْ</b>
+  <b>| Assalamualaikum (السَّلامُ عَلَيْكُمْ) Everyone. Peace be upon you | </b>
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 <img align="right" src="intro.gif" width="180" alt="Animated GIF" />
 I'm Sakiful Siam, a Computer Science and Engineering undergrad at Khulna University of Engineering & Technology (KUET), Bangladesh. I do competitive programming, and I'm getting into AI and ML. Eventually I want to build products of my own and go to software development field.
 
-- 🔭 Working on: DSA-focused projects
-- 🌱 Learning: data structures and algorithms, a few frameworks
+- 🔭 Working on: Software Devolopment
+- 🌱 Learning: Data structures and algorithms and a few frameworks
 - 🧠 Exploring: Artificial Intelligence and Machine Learning
 
 ## 🧰 Tech Stack
@@ -25,16 +25,6 @@ I'm Sakiful Siam, a Computer Science and Engineering undergrad at Khulna Univers
   Tools<br><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, Linux" />
 </p>
-
-## 🚀 Projects
-
-### 34-bit Computer
-
-A simulated computer built in Logisim Evolution. I designed and integrated the ALU, the stack pointer, and the memory circuits. The design covers instruction execution, data flow, control signals, shifts, jumps, Booth's multiplication, and cache.
-
-### CodeForge
-
-A code analysis engine that detects the time and space complexity of the code you give it.
 
 ## 📊 GitHub Stats
 
