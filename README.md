@@ -9,7 +9,7 @@
 </p>
 
 ## 👨‍💻 About Me
-
+<img align="right" src="intro.gif" width="180" alt="Animated GIF" />
 I'm Sakiful Siam, a Computer Science and Engineering undergrad at Khulna University of Engineering & Technology (KUET), Bangladesh. I do competitive programming, and I'm getting into AI and ML. Eventually I want to build products of my own and go to software development field.
 
 - 🔭 Working on: DSA-focused projects
