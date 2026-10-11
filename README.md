@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  🎓 KUET CSE-24 &nbsp;|&nbsp; 💻 Competitive Programmer &nbsp;|&nbsp; 🤖 AI & ML &nbsp;|&nbsp; 🟢 Pupil @ Codeforces &nbsp;|&nbsp; 🚀 Aspiring Entrepreneur
+  🎓 CSE Undergrad &nbsp;|&nbsp; 💻 Competitive Programmer &nbsp;|&nbsp; 🟢 Pupil @ Codeforces &nbsp;|&nbsp; 🤖 AI & ML &nbsp;|&nbsp; 🚀 Aspiring Entrepreneur
 </p>
 
 ## 👨‍💻 About Me
 
-I'm Sakiful Siam, a Computer Science and Engineering undergrad at Khulna University of Engineering & Technology (KUET), Bangladesh. I do competitive programming in C++, I'm getting into AI and ML, and I like digital logic and computer architecture. Eventually I want to build products of my own.
+I'm Sakiful Siam, a Computer Science and Engineering undergrad at Khulna University of Engineering & Technology (KUET), Bangladesh. I do competitive programming, and I'm getting into AI and ML. Eventually I want to build products of my own and go to software development field.
 
-- 🔭 Working on: a 34-bit computer in Logisim Evolution, and a DSA-focused project
-- 🌱 Learning: data structures and algorithms, C++, and computer architecture
-- 💬 Ask me about: C++, competitive programming, algorithms, digital logic
+- 🔭 Working on: DSA-focused projects
+- 🌱 Learning: data structures and algorithms, a few frameworks
+- 🧠 Exploring: Artificial Intelligence and Machine Learning
 
 ## 🧰 Tech Stack
 
