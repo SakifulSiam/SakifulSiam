@@ -59,8 +59,8 @@ A code analysis engine that detects the time and space complexity of the code yo
   <a href="https://atcoder.jp/users/logx_07">
     <img src="https://img.shields.io/badge/AtCoder-logx__07-222222?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder Profile" />
   </a>
-    <a href="https://leetcode.com/u/logx_07/">
-    <img src="https://img.shields.io/badge/LeetCode-logx__07-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  <a href="https://leetcode.com/u/logx_07">
+    <img src="https://img.shields.io/badge/LeetCode-logx__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </p>
 
