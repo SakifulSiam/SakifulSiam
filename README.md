@@ -66,12 +66,15 @@ My C++ solutions, organized by platform, are in [Competitive_Programmers_Vault](
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/sakiful.siam.2025">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" alt="Facebook" />
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="48" height="48" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/logx_69/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/1372126754109390948">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
+  </a>
+  <a href="mailto:sakiful.siam007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
